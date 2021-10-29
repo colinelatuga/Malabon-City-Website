@@ -115,6 +115,35 @@ a {
     margin: 0 auto;
     padding: 100px 0;
 }
+#aboutmalabon .section-title{
+    font-size: 4rem;
+    font-weight: 300;
+    color: #f50685;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    text-align: center;
+}
+#aboutmalabon .section-title span{
+    color:black
+}
+#aboutmalabon .aboutmalabon-top p{
+    font-size: 1.4rem;
+    margin-top: 5px;
+    line-height: 2.5rem;
+    font-weight: 300;
+    letter-spacing: .05rem;
+}
+#aboutmalabon .aboutmalabon-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#aboutmalabon .service-item
+
+
+
 
 /* End of About Malabon Section */
 /* Keyframes */
