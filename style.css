@@ -108,10 +108,6 @@ p{
     font-weight: 600;
     font-size: 16px;
 }
-/* Hero Section */
-
-/* End Here Section */
-
 
 /* About Malabon Section */
 #aboutmalabon .aboutmalabon {
@@ -173,7 +169,6 @@ p{
     color: white;
     text-align: left;
 }
-
 /* End of About Malabon Section */
 
 /* Projects */
@@ -248,7 +243,7 @@ p{
 }
 /* End of Projects */
 
-/* About Section */
+/* Gallery Section */
 #gallery .gallery {
     flex-direction: column-reverse;
     text-align: center;
@@ -296,7 +291,7 @@ p{
     border: 7px solid #f50685;
     z-index: -1;
 }
-/* End About Section */
+/* End Gallery Section */
 
 /* Contact Section */
 #contact .contact {
